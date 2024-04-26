@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Apple USB-Keyboard")(type "KiCad")(uri "${KIPRJMOD}/Apple USB-Keyboard.kicad_sym")(options "")(descr ""))
+)
