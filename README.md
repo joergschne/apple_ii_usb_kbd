@@ -13,6 +13,8 @@ Based on Arduino-UNO (ATMEGA328P) and Maxim MAX3421E USB-Host-Controller
 
 - Autorepeat function and the “Up arrow” button repeats the last entry
 
+- Caps Lock (Shift Lock) lower case support
+
 - Win+9 (LodeRunner Mapping) assigns the keys I,J,K,L to W,A,S,D to play an unpatched version of LodeRunner with the usual key combination
 
 - Specially build for: CHERRY MX-LP 2.1 Compact Wireless Keyboard
