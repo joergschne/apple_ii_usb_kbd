@@ -11,6 +11,11 @@ Based on Arduino-UNO (ATMEGA328P) and Maxim MAX3421E USB-Host-Controller
 
 - The Windows key itself switches back to the original Apple keyboard. This is the default setting after switching on and the switch to USB is automatic.
 
+- Autorepeat function and the “Up arrow” button repeats the last entry
+
+- Win+9 (LodeRunner Mapping) assigns the keys I,J,K,L to W,A,S,D to play an unpatched version of LodeRunner with the usual key combination
+
 - Specially build for: CHERRY MX-LP 2.1 Compact Wireless Keyboard
 
-APPLE II Forever! 
+
+APPLE II forever! 
