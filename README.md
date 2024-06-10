@@ -1,5 +1,4 @@
-# apple_ii_usb_kbd
- Apple II USB Keyboard-Adapter
+# Apple II USB Keyboard-Adapter
 
 Based on Arduino-UNO (ATMEGA328P) and Maxim MAX3421E USB-Host-Controller
 
